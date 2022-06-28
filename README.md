@@ -22,7 +22,7 @@ Some other websites/tools I have developed:
 ## &#x1f4c8; My GitHub Stats
 
 <a href="https://github.com/IsaacLehman/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsaacLehman&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsaacLehman&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 <a href="https://github.com/IsaacLehman/">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=IsaacLehman&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Isaac's GitHub Stats" />
